@@ -1,0 +1,52 @@
+.question, .answer{
+	width: 80%;
+	float: left;
+	display: inline;
+}
+
+.user {
+	float: left;
+}
+.tagList {
+	display: inline-block;
+}
+.tagList li {
+	display: inline;
+}
+
+.flagVote {
+	display: inline-block;
+	margin-top: 2em;
+}
+
+.flag, .vote {
+	display: block;
+}
+
+.user {
+	margin: 5px;
+}
+
+#userInfo img {
+	height: 50px;
+	width: 50px;
+}
+
+.user img {
+	height: 50px;
+	width: 50px;
+}
+
+#userPosts {
+	display: inline-block;
+	width: 75%;
+}
+
+#profileSideBar {
+	width: 20%;
+	display: inline-block;
+}
+
+#profileSideBar li {
+	list-style: none;
+}
